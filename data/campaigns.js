@@ -578,7 +578,7 @@ export const CAMPAIGNS = [
 
                     { id: "zhejiang_jiangxi_1942", name: "浙赣会战", dateText: "1942年5月15日—9月", location: "浙江—江西·浙赣铁路战区", status: "available", scenarioPath: "./data/scenario-zhejiang_jiangxi.json", unitsPath: "./data/units-zhejiang_jiangxi.json", factions:["CHN","JPN"], roles:{attacker:"japanese",defender:"chinese"}, start:{year:1942,month:5,day:15,hour:6,minute:0,hoursPerTurn:24,startingPhase:"japanese"}, urbanDefense:true, wallSystem:false },
 
-                    { id: "dongyang_1942", name: "东阳战役", dateText: "1942年5月", location: "浙江·东阳", status: "available", scenarioPath: "./data/scenario-dongyang_1942.json", unitsPath: "./data/units-dongyang_1942.json", factions:["CHN","JPN"], roles:{attacker:"japanese",defender:"chinese"}, start:{year:1942,month:5,day:20,hour:6,minute:0,hoursPerTurn:6,startingPhase:"japanese"}, urbanDefense:false, wallSystem:false }
+                    { id: "dongyang_1942", name: "东阳战役（地图还需要修改）", dateText: "1942年5月", location: "浙江·东阳", status: "available", scenarioPath: "./data/scenario-dongyang_1942.json", unitsPath: "./data/units-dongyang_1942.json", factions:["CHN","JPN"], roles:{attacker:"japanese",defender:"chinese"}, start:{year:1942,month:5,day:20,hour:6,minute:0,hoursPerTurn:6,startingPhase:"japanese"}, urbanDefense:false, wallSystem:false }
 
                 ]
 
